@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Renoxr
+- 👋 Hi, I’m @Pradeep_Solanki
 - 👀 I’m interested in Programming & Coding
 - 🌱 I’m currently learning Somthing new
 - 💞️ I’m looking to collaborate on new things
